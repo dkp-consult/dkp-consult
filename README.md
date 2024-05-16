@@ -4,7 +4,7 @@
 
 
 # 💫 About me
-🔭 I’m currently working on launch a [freelancing activity](https://dkp-consult.be) <br>
+🔭 I’m currently working on my [freele activity](https://dkp-consult.be) <br>
 👯 I’m looking to collaborate on open-source project<br>
 🌱 I’m currently learning dev and best practices<br>
 👨‍💻 All of my projects are available at [dev.dkp-consult.be](dev.dkp-consult.be) <br>
