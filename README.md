@@ -131,7 +131,8 @@ Des liens sont fournis uniquement lorsque le dépôt est ouvert ou lorsqu’une 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkp-consult&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkp-consult&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkp-consult&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+
 
 
 ## 📬 Me contacter
