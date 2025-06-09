@@ -1,41 +1,145 @@
-<h1 align="center">Hello World, I'm Pierre Debski (dkp-consult)</h1>
-<h3 align="center">A passionate developer from Liège, Belgium</h3>
-<br>
+<!--
+README GitHub – dkP
+
+Certains projets sont clients/privés : ne pas publier leur code
+-->
+*Dernière mise à jour : 2024-06-10*
+
+<div align="center">
+
+_Rigoureux • Pragmatique • Orienté solutions_
+
+</div>
+
+# 👋 Bonjour, moi c’est ^dkp
+
+🎯 Développeur & Conseiller Financier — J’allie code et stratégie pour créer des projets utiles, bien pensés, et techniquement solides.
 
 
-# 💫 About me
-🔭 I’m currently working on my [freele activity](https://dkp-consult.be) <br>
-👯 I’m looking to collaborate on open-source project<br>
-🌱 I’m currently learning dev and best practices<br>
-👨‍💻 All of my projects are available at [dev.dkp-consult.be](dev.dkp-consult.be) <br>
-📝 I regularly write articles on [blog.dkp-consult.be](blog.dkp-consult.be) <br>
-📫 How to reach me **contact@dkp-consult.be**
+## 💼 Activité actuelle
 
-<br>
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dkp-consult&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dkp-consult&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkp-consult&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-## 🌐 Socials :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dkp-consult) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-debski) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dkp_consult)
-
-<br>
-
-## ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🛠️ Freelance — Développement Web, WordPress, Shopify, Plugins, SaaS, Gestion de Projet
+- 🧑‍💻 Réalisation de sites vitrines pour indépendants, associations & TPE
+- 🛒 Intégrateur Shopify / Wordpress — Thèmes, automatisations, résolution de bugs, gestions
+- 🎓 Accompagnement & formation aux outils numériques (CMS, Cloud, gestion web)
+- 🧠 Conseil IT — Structuration technique & architecture
+- 🚀 Créateur — Micro-outils, MVP et extensions navigateur
 
 
----
-[![](https://visitcount.itsvg.in/api?id=dkp-consult&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+## 🔧 Stack technique
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Développement Frontend**  
+  React · Vue.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Astro
+
+- **Développement Backend & API**  
+  Node.js · Express.js · Prisma ORM · REST API · OAuth · Stripe API
+
+- **Bases de données**  
+  PostgreSQL · MariaDB · MySQL · SQLite
+
+- **CMS & E-commerce**  
+  WordPress (thèmes & plugins) · WooCommerce · Shopify
+
+- **Outils de versioning & environnement**  
+  Git · GitHub · macOS · Linux (Ubuntu/Debian)
+
+- **Design & Illustration**  
+  Figma · Canva · Adobe Creative Suite (Photoshop, Illustrator) · Inkscape
+
+
+
+## 📦 À propos des projets présentés
+
+Certains projets listés ci-dessous sont des **projets clients ou internes**, et ne sont donc **pas tous disponibles publiquement**.
+Des liens sont fournis uniquement lorsque le dépôt est ouvert ou lorsqu’une démo est disponible.
+
+
+## ✅ Projets en production
+
+### 🧰 Outils & Micro-SaaS
+
+- **🔧 img2pdf**  
+    🟢 En production • [img2pdf.app](https://img2pdf.app)  
+    Convertisseur d’images en PDF, mobile/desktop, sans serveur.
+
+- **📝 Générateur de QCM**  
+    🟢 En production  
+    Quiz HTML auto-corrigés intégrables dans WordPress.
+    🔒 Projet client, non publié.
+
+### 🧩 Plugins & Intégrations
+
+- **🔄 Plugin Inkdrop – GitHub Sync**  
+    🟢 En production • [Inkdrop Plugin](https://my.inkdrop.app/plugins/autopush-notes)
+    Synchronisation automatique de notes Markdown avec repo GitHub.
+
+- **🤖 Plugin WP – robots.txt / ai.txt / llm.txt**  
+    🟢 En production  
+    Gestion multisite de fichiers AI via l’admin WP.
+    🔒 Projet client, non publié.
+
+- **📊 Script Shopify – Export comptable**  
+    🟢 En production  
+    Export CSV structuré pour cabinet comptable.
+    🔒 Projet client, non publié.
+
+- **🔐 Plugin WP – Connexion blocante**  
+    🟢 En production  
+    Bloque l'accès au site avant connexion et redirige vers les parties concernées  
+    🔒 Projet client, non publié.
+
+### 🌐 Extensions navigateur
+
+- **📸 New Tab Daily Photo**  
+    🟢 En production  
+    Chrome/Firefox : photo différente à chaque onglet.  
+    [Chrome Web Store](https://chrome.google.com/webstore/detail/yoan-365-photos/cnopjnbmioelcoehnhjaigpgncnfeamp) – [Firefox Add-ons](https://addons.mozilla.org/addon/yoan-365-photos-by-dkp-consult) - [GitHub](https://github.com/dkp-consult/yoan_365_photos)
+
+
+## 🚧 Projets en développement
+
+- **📄 CV Generator**  
+    🟡 En développement • [GitHub](https://github.com/dkp-consult)  
+    CV dynamique + export PDF.  
+
+- **👶 Gestion de crèche**  
+    🟡 En développement  
+    Back-office enfant/présences/factures · Express.js + Postgres SQL + Prisma
+
+- **🧾 Générateur de factures Shopify**  
+    🟡 En production  
+    Lit un CSV de commandes et génère des factures PDF + ZIP.
+
+
+
+## 💡 Projets à l’état d’idée
+
+- **💡 Matchmaker Padel**  
+    App no-code (Adalo) pour relier joueurs par niveau/localisation.
+
+
+## 🧭 Parcours
+
+```
+-> 🏦 Ancien spécialiste assurances & crédit 
+-> 💻 Reconverti développeur autodidacte 
+-> 🎯 Freelance & créateur d'outils concrets et scalables
+```
+
+
+## 📊 GitHub Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkp-consult&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkp-consult&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+## 📬 Me contacter
+
+
+[![Website](https://img.shields.io/badge/🌐_dkp--consult.be-0077B5?style=for-the-badge)](https://dkp-consult.be)  
+[![Email](https://img.shields.io/badge/✉️_contact@dkp--consult.be-D14836?style=for-the-badge)](mailto:contact@dkp-consult.be)  
+[![LinkedIn](https://img.shields.io/badge/💬_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pierre-debski/)  
+[![Ko-fi](https://img.shields.io/badge/💡_Me_soutenir-FF5E5B?style=for-the-badge)](https://ko-fi.com/dkpconsult)
+
+> _La meilleure ligne de code est celle qui répond à un vrai besoin._ -  *^dkp*
